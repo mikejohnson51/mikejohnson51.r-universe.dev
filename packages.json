@@ -12,7 +12,7 @@
         "url": "https://github.com/mikejohnson51/climateR"
     },
     {
-        "package": "climateR-catalogs",
+        "package": "climateR.catalogs",
         "url": "https://github.com/mikejohnson51/climateR-catalogs"
     },
     {
