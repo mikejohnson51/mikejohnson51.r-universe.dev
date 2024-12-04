@@ -1,0 +1,26 @@
+[
+    {
+        "package": "AOI",
+        "url": "https://github.com/mikejohnson51/hydrofabric"
+    },
+    {
+        "package": "zonal",
+        "url": "https://github.com/mikejohnson51/zonal"
+    },
+    {
+        "package": "climateR",
+        "url": "https://github.com/mikejohnson51/climateR"
+    },
+    {
+        "package": "climateR-catalogs",
+        "url": "https://github.com/mikejohnson51/climateR-catalogs"
+    },
+    {
+        "package": "nwmTools",
+        "url": "https://github.com/mikejohnson51/nwmTools"
+    },
+    {
+        "package": "AHGestimation",
+        "url": "https://github.com/mikejohnson51/AHGestimation"
+    }
+]
